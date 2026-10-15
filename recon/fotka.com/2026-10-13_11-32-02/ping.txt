@@ -1,0 +1,5 @@
+PING fotka.com (2606:4700:99eb:54e1:5c64:4c3:b7dd:8fb2) 56 data bytes
+
+--- fotka.com ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3081ms
+

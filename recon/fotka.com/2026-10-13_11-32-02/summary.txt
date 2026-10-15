@@ -1,0 +1,11 @@
+Domain Recon Report
+===================
+
+Target       : fotka.com
+Started      : Tue Oct 13 11:32:03 AM EDT 2026
+Output       : ./recon/fotka.com/2026-10-13_11-32-02
+Passive      : true
+Wordlist     : default
+Max jobs     : 20
+
+Ping completed.

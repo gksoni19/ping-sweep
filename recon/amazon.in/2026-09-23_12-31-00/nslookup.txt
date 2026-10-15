@@ -1,0 +1,17 @@
+Server:		192.168.88.2
+Address:	192.168.88.2#53
+
+Non-authoritative answer:
+Name:	amazon.in
+Address: 3.253.170.100
+Name:	amazon.in
+Address: 3.253.176.101
+Name:	amazon.in
+Address: 3.253.168.43
+Name:	amazon.in
+Address: 64:ff9b::3fd:aa64
+Name:	amazon.in
+Address: 64:ff9b::3fd:a82b
+Name:	amazon.in
+Address: 64:ff9b::3fd:b065
+

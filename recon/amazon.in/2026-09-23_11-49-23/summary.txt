@@ -1,0 +1,11 @@
+Domain Recon Report
+===================
+
+Target       : amazon.in
+Started      : Wed Sep 23 11:49:23 AM EDT 2026
+Output       : ./recon/amazon.in/2026-09-23_11-49-23
+Passive      : true
+Wordlist     : default
+Max jobs     : 20
+
+Ping completed.

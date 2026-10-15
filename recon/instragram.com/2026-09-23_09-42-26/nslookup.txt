@@ -1,0 +1,9 @@
+Server:		192.168.88.2
+Address:	192.168.88.2#53
+
+Non-authoritative answer:
+Name:	instragram.com
+Address: 31.13.64.18
+Name:	instragram.com
+Address: 2a03:2880:f315:8d:face:b00c:0:2
+

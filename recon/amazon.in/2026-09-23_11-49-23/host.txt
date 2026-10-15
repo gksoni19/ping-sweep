@@ -1,0 +1,7 @@
+amazon.in has address 3.253.168.43
+amazon.in has address 3.253.170.100
+amazon.in has address 3.253.176.101
+amazon.in has IPv6 address 64:ff9b::3fd:aa64
+amazon.in has IPv6 address 64:ff9b::3fd:a82b
+amazon.in has IPv6 address 64:ff9b::3fd:b065
+amazon.in mail is handled by 10 amazon-smtp.amazon.com.

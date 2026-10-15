@@ -1,0 +1,21 @@
+2026-09-23T09:42:41.834774-0400 INFO Starting enumeration for domain: instragram.com
+2026-09-23T09:42:41.836683-0400 INFO std: Performing General Enumeration against: instragram.com...
+2026-09-23T09:42:41.942604-0400 ERROR No answer for DNSSEC query for instragram.com
+2026-09-23T09:42:42.869922-0400 INFO 	 SOA a.ns.facebook.com 129.134.30.12
+2026-09-23T09:42:42.870490-0400 INFO 	 SOA a.ns.facebook.com 2a03:2880:f0fc:c:face:b00c:0:35
+2026-09-23T09:42:43.476847-0400 INFO 	 NS b.ns.facebook.com 129.134.31.12
+2026-09-23T09:42:43.544471-0400 INFO 	 NS b.ns.facebook.com 2a03:2880:f0fd:c:face:b00c:0:35
+2026-09-23T09:42:43.551634-0400 INFO 	 NS a.ns.facebook.com 129.134.30.12
+2026-09-23T09:42:43.620006-0400 INFO 	 NS a.ns.facebook.com 2a03:2880:f0fc:c:face:b00c:0:35
+2026-09-23T09:42:43.622994-0400 INFO 	 NS d.ns.facebook.com 185.89.219.12
+2026-09-23T09:42:43.649002-0400 INFO 	 NS d.ns.facebook.com 2a03:2880:f1fd:c:face:b00c:0:35
+2026-09-23T09:42:43.651804-0400 INFO 	 NS c.ns.facebook.com 185.89.218.12
+2026-09-23T09:42:43.690531-0400 INFO 	 NS c.ns.facebook.com 2a03:2880:f1fc:c:face:b00c:0:35
+2026-09-23T09:42:43.711305-0400 INFO 	 A instragram.com 31.13.64.18
+2026-09-23T09:42:43.717053-0400 INFO 	 AAAA instragram.com 2a03:2880:f315:8d:face:b00c:0:2
+2026-09-23T09:42:44.570315-0400 INFO 	 TXT instragram.com v=spf1 -all
+2026-09-23T09:42:44.571045-0400 INFO 	 TXT _dmarc.instragram.com v=DMARC1; p=reject; rua=mailto:a@dmarcreports.facebook.com;
+2026-09-23T09:42:44.682027-0400 INFO Enumerating SRV Records
+2026-09-23T09:42:48.333947-0400 ERROR No SRV Records Found for instragram.com
+2026-09-23T09:42:48.334634-0400 INFO Completed enumeration for domain: instragram.com
+

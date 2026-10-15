@@ -1,0 +1,11 @@
+Domain Recon Report
+===================
+
+Target       : instragram.com
+Started      : Wed Sep 23 09:42:26 AM EDT 2026
+Output       : ./recon/instragram.com/2026-09-23_09-42-26
+Passive      : true
+Wordlist     : default
+Max jobs     : 20
+
+Ping completed.
